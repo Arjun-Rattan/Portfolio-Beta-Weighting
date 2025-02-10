@@ -1,2 +1,2 @@
 # Portfolio-Beta-Weighting
-Algorithmically adjusts portfolio allocations to achieve a desired beta level.
+Project that algorithmically adjusts portfolio allocations to achieve a desired beta level.
